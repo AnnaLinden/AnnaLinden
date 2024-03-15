@@ -1,20 +1,11 @@
 # Hi! I'm Anna
 
-## 💼 The Tools I Use
+## 💼 Languages and Tools I Use
 
-<p align="left">
-  <img alt="React" src="https://simpleicons.org/icons/react.svg" width="40" height="40"/>
-  <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="40" height="40"/>
-  <img alt="TypeScript" src="https://simpleicons.org/icons/typescript.svg" width="40" height="40"/>
-  <img alt="Python" src="https://simpleicons.org/icons/python.svg" width="40" height="40"/>
-  <img alt="Java" src="https://simpleicons.org/icons/java.svg" width="40" height="40"/> 
-  <img alt="MongoDB" src="https://simpleicons.org/icons/mongodb.svg" width="40" height="40"/>
-  <img alt="Node.js" src="https://simpleicons.org/icons/nodedotjs.svg" width="40" height="40"/>
-  <img alt="Jenkins" src="https://simpleicons.org/icons/jenkins.svg" width="40" height="40"/>
-  <img alt="Docker" src="https://simpleicons.org/icons/docker.svg" width="40" height="40"/>
-  <img alt="HTML5" src="https://simpleicons.org/icons/html5.svg" width="40" height="40"/>
-  <img alt="CSS3" src="https://simpleicons.org/icons/css3.svg" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=jenkins,docker,ts,java,py,flask,html,css,ts,js,react,express,mongo,mysql,postgres,hibernate,git,jenkins,docker&theme=light)](https://skillicons.dev)
+
+
+
 
 
 
