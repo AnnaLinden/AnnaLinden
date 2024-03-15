@@ -8,5 +8,5 @@
 
 
 [![](https://raw.githubusercontent.com/AnnaLinden/AnnaLinden/master/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AnnaLinden/AnnaLinden/master/profile-summary-card-output/city_lights/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnnaLinden&theme=city_lights&utcOffset={utcOffset}
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnnaLinden&theme=city_lights&utcOffset={utcOffset})](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
