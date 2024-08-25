@@ -1,8 +1,8 @@
  ## Hi there, I'm a Software Developer residing in Evitskog, Finland 🌲
 
 - 📖 I’m studying [Software Engineering](https://opinto-opas.metropolia.fi/88094/en/67/70331/3319/2490) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki.
-- 🌱 Currently learning TypeScript && Calculus && Ethical hacking.
-- 🔧 Interested in CI/CD.
+- 🌱 Currently learning Kotlin for Android.
+- 🔧 Interested web development and mobile development.
 - 💻 Currently working on an instant feedback application for teachers.
 - 🤝 Open for collaboration.
 
