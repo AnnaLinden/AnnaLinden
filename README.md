@@ -3,7 +3,7 @@
 - 📖 I’m studying [Software Engineering](https://opinto-opas.metropolia.fi/88094/en/67/70331/3319/2490) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki.
 - 🌱 Currently learning Kotlin for Android.
 - 🔧 Interested in Full-Stack Web Development and Mobile Development.
-- 💻 Currently working on usability and accessability of [Metropolia library front page](https://metropolia.finna.fi/).
+- 💻 Currently working on frontend aspects of the [Metropolia LibGuide](https://libguides.metropolia.fi/) and assessing usability and accessability for [Metropolia library front page](https://metropolia.finna.fi/).
 - 🤝 Open for collaboration.
 
 ## 💼 Languages and Tools I Use
