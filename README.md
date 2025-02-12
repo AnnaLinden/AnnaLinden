@@ -1,8 +1,8 @@
  ## Hi there, I'm a Software Developer residing in Evitskog, Finland 🌲
 
-- 📖 I’m studying [Software Engineering](https://opinto-opas.metropolia.fi/88094/en/67/70331/3319/2490) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki.
-- 🌱 Currently learning Kotlin for Android and Swift for iOS.
-- 🔧 Interested in Full-Stack Web Development and Mobile Development.
+- 📖 I’m a Software Engineer based in Helsinki.
+- 🌱 Currently learning ML and AWS.
+- 🔧 Interested in Full-Stack Web Development using TS and React.
 - 💻 Currently working on frontend aspects of the [Metropolia LibGuide](https://libguides.metropolia.fi/) and assessing usability and accessability for [Metropolia library front page](https://metropolia.finna.fi/).
 - 🤝 Open for collaboration.
 
