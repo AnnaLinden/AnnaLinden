@@ -3,7 +3,7 @@
 - 📖 I’m a Software Engineer based in Helsinki.
 - 🌱 Currently learning ML and AWS.
 - 🔧 Interested in Full-Stack Web Development using TS and React.
-- 💻 Currently working on frontend aspects of the [Metropolia LibGuide](https://libguides.metropolia.fi/) and assessing usability and accessability for [Metropolia library front page](https://metropolia.finna.fi/).
+- 💻 Currently working on React TS Store.
 - 🤝 Open for collaboration.
 
 ## 💼 Languages and Tools I Use
