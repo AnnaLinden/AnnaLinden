@@ -8,7 +8,7 @@
 
 ## 💼 Languages and Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=jenkins,docker,ts,js,kotlin,react,express,mongo,nodejs,npm,java,py,flask,html,css,mysql,postgres,hibernate,git,github,gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,jenkins,docker,js,kotlin,express,mongo,nodejs,npm,java,py,flask,html,css,mysql,postgres,hibernate,git,github,gitlab&theme=light)](https://skillicons.dev)
 
 
 
