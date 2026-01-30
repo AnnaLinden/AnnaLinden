@@ -3,8 +3,7 @@
 - 📖 I’m a Software Engineer based in Helsinki.
 - 🌱 Currently learning ML and AWS.
 - 🔧 Interested in Full-Stack Web Development using TS and React.
-- 💻 Currently working on React TS Store.
-- 🤝 Open for collaboration.
+- 💻 Currently working as a Full-Stack Project Engineer at Metropolia UAS (Python, Fast API, React, TS, PostgreSQL).
 
 ## 💼 Languages and Tools I Use
 
