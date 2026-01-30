@@ -1,4 +1,4 @@
- ## Hi there, I'm a Software Developer residing in Evitskog, Finland 🌲
+ ## Hi there, I'm a Software Developer from Finland 🌲
 
 - 📖 I’m a Software Engineer based in Helsinki.
 - 🌱 Currently learning ML and AWS.
