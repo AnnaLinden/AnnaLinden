@@ -1,7 +1,7 @@
  ## Hi there, I'm a Software Developer from Finland 🌲
 
 - 📖 I’m a Software Engineer based in Helsinki.
-- 🌱 Currently learning ML and AWS.
+- 🌱 Currently learning AWS.
 - 🔧 Interested in Full-Stack Web Development using TS and React.
 - 💻 Currently working as a Full-Stack Project Engineer at Metropolia UAS (Python, Fast API, React, TS, PostgreSQL).
 
